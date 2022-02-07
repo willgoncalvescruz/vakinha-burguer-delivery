@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/vakinha_ui.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/vakinha_ui.dart';
 
 class IconBadge extends StatelessWidget {
   final int number;

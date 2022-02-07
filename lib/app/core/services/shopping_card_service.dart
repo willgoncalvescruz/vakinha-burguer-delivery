@@ -1,6 +1,6 @@
 import 'package:get/state_manager.dart';
-import 'package:vakinha_burger_mobile/app/models/product_model.dart';
-import 'package:vakinha_burger_mobile/app/models/shopping_card_model.dart';
+import 'package:vakinha_burguer_mobile/app/models/product_model.dart';
+import 'package:vakinha_burguer_mobile/app/models/shopping_card_model.dart';
 
 class ShoppingCardService extends GetxService {
   final _shoppingCard = <int, ShoppingCardModel>{}.obs;

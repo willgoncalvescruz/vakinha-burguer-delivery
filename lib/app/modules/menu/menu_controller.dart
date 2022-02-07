@@ -1,11 +1,11 @@
 import 'dart:developer';
 
 import 'package:get/get.dart';
-import 'package:vakinha_burger_mobile/app/core/mixins/loader_mixin.dart';
-import 'package:vakinha_burger_mobile/app/core/mixins/messages_mixin.dart';
-import 'package:vakinha_burger_mobile/app/models/product_model.dart';
+import 'package:vakinha_burguer_mobile/app/core/mixins/loader_mixin.dart';
+import 'package:vakinha_burguer_mobile/app/core/mixins/messages_mixin.dart';
+import 'package:vakinha_burguer_mobile/app/models/product_model.dart';
 
-import 'package:vakinha_burger_mobile/app/repositories/products/product_repository.dart';
+import 'package:vakinha_burguer_mobile/app/repositories/products/product_repository.dart';
 
 class MenuController extends GetxController with LoaderMixin, MessagesMixin {
   final ProductRepository _productRepository;

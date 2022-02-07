@@ -1,10 +1,10 @@
 import 'package:get/get.dart';
-import 'package:vakinha_burger_mobile/app/core/services/auth_service.dart';
-import 'package:vakinha_burger_mobile/app/core/services/shopping_card_service.dart';
-import 'package:vakinha_burger_mobile/app/models/order.dart';
-import 'package:vakinha_burger_mobile/app/models/shopping_card_model.dart';
-import 'package:vakinha_burger_mobile/app/modules/home/home_controller.dart';
-import 'package:vakinha_burger_mobile/app/repositories/order/order_repository.dart';
+import 'package:vakinha_burguer_mobile/app/core/services/auth_service.dart';
+import 'package:vakinha_burguer_mobile/app/core/services/shopping_card_service.dart';
+import 'package:vakinha_burguer_mobile/app/models/order.dart';
+import 'package:vakinha_burguer_mobile/app/models/shopping_card_model.dart';
+import 'package:vakinha_burguer_mobile/app/modules/home/home_controller.dart';
+import 'package:vakinha_burguer_mobile/app/repositories/order/order_repository.dart';
 
 class ShoppingCardController extends GetxController {
   final AuthService _authService;

@@ -1,4 +1,4 @@
-import 'package:vakinha_burger_mobile/app/models/shopping_card_model.dart';
+import 'package:vakinha_burguer_mobile/app/models/shopping_card_model.dart';
 
 class Order {
   int userId;

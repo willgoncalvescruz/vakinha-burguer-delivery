@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/formatter_helper.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/plus_minus_box.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_button.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/formatter_helper.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/plus_minus_box.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_button.dart';
 import 'package:validatorless/validatorless.dart';
 import './shopping_card_controller.dart';
 

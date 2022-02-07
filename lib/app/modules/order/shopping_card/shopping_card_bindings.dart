@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:vakinha_burger_mobile/app/repositories/order/order_repository.dart';
-import 'package:vakinha_burger_mobile/app/repositories/order/order_repository_impl.dart';
+import 'package:vakinha_burguer_mobile/app/repositories/order/order_repository.dart';
+import 'package:vakinha_burguer_mobile/app/repositories/order/order_repository_impl.dart';
 import './shopping_card_controller.dart';
 
 class ShoppingCardBindings implements Bindings {

@@ -1,6 +1,6 @@
 import 'package:get/get_navigation/src/routes/get_route.dart';
-import 'package:vakinha_burger_mobile/app/modules/order/finished/finished_page.dart';
-import 'package:vakinha_burger_mobile/app/modules/order/pix/pix_page.dart';
+import 'package:vakinha_burguer_mobile/app/modules/order/finished/finished_page.dart';
+import 'package:vakinha_burguer_mobile/app/modules/order/pix/pix_page.dart';
 
 class OrderRouters {
   OrderRouters._();

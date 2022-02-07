@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/formatter_helper.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_rounded_button.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/formatter_helper.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_rounded_button.dart';
 
 class PlusMinusBox extends StatelessWidget {
   final bool elevated;

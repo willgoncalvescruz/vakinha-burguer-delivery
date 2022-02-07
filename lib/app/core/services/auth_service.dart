@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:vakinha_burger_mobile/app/core/constants/constants.dart';
+import 'package:vakinha_burguer_mobile/app/core/constants/constants.dart';
 
 class AuthService extends GetxService {
   final _isLogged = RxnBool();

@@ -1,6 +1,6 @@
 import 'package:get/get_navigation/src/routes/get_route.dart';
-import 'package:vakinha_burger_mobile/app/modules/product_details/product_details_bindings.dart';
-import 'package:vakinha_burger_mobile/app/modules/product_details/product_details_page.dart';
+import 'package:vakinha_burguer_mobile/app/modules/product_details/product_details_bindings.dart';
+import 'package:vakinha_burguer_mobile/app/modules/product_details/product_details_page.dart';
 
 class ProductRouters {
   ProductRouters._();

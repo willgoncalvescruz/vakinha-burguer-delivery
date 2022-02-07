@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/formatter_helper.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_appbar.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_button.dart';
-import 'package:vakinha_burger_mobile/app/models/order_pix.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/formatter_helper.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_appbar.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_button.dart';
+import 'package:vakinha_burguer_mobile/app/models/order_pix.dart';
 import 'package:get/get.dart';
 
 class PixPage extends StatelessWidget {

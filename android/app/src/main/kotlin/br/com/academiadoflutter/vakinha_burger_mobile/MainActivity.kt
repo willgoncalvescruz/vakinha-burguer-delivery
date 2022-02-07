@@ -1,4 +1,4 @@
-package br.com.academiadoflutter.vakinha_burger_mobile
+package br.com.academiadoflutter.vakinha_burguer_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 

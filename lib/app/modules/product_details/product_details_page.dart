@@ -1,11 +1,11 @@
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/formatter_helper.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/vakinha_ui.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/plus_minus_box.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_appbar.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_button.dart';
-import 'package:vakinha_burger_mobile/app/modules/product_details/product_details_controller.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/formatter_helper.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/vakinha_ui.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/plus_minus_box.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_appbar.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_button.dart';
+import 'package:vakinha_burguer_mobile/app/modules/product_details/product_details_controller.dart';
 
 class ProductDetailsPage extends GetView<ProductDetailsController> {
   const ProductDetailsPage({Key? key}) : super(key: key);

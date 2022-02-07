@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:vakinha_burger_mobile/app/core/rest_client/rest_client.dart';
-import 'package:vakinha_burger_mobile/app/models/order.dart';
-import 'package:vakinha_burger_mobile/app/models/order_pix.dart';
+import 'package:vakinha_burguer_mobile/app/core/rest_client/rest_client.dart';
+import 'package:vakinha_burguer_mobile/app/models/order.dart';
+import 'package:vakinha_burguer_mobile/app/models/order_pix.dart';
 
 import './order_repository.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:vakinha_burger_mobile/app/core/ui/widgets/vakinha_button.dart';
-import 'package:vakinha_burger_mobile/app/models/order_pix.dart';
+import 'package:vakinha_burguer_mobile/app/core/ui/widgets/vakinha_button.dart';
+import 'package:vakinha_burguer_mobile/app/models/order_pix.dart';
 
 class FinishedPage extends StatelessWidget {
   final OrderPix _orderPix = Get.arguments;
