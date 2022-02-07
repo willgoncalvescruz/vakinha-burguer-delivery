@@ -7,14 +7,14 @@
 	 
 <p align="center">
 </h4>
- <a href="#Descrição do Projeto">Descrição do Projeto</a> •
+ <a href="#Descricao">Descrição do Projeto</a> •
  <a href="#Experiencia">Experiencia</a> •
  <a href="#Features">Features</a> •
  <a href="#Telas">Telas</a> •  
  <a href="#Rodar">Rodar</a> • 
 </p>
 
-## Descrição do Projeto
+## Descrição
 <p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.</p>
 <a href="http://academiadoflutter.com.br//">Rodrigo Rahman</a>
  </p>
