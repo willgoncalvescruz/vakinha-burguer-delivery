@@ -1,11 +1,5 @@
-
-
 <h1 align="center">Vakinha Burger: </h1>
 <p align="center">🚧  Flutter Select 🚀 Em finalização...  🚧</p>
-# Descrição do Projeto
-<p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.</p>
-<a href="http://academiadoflutter.com.br//">Rodrigo Rahman</a>
- </p>
 <h1 align="center">
     <a href="https://pub.dev/"> Flutter</a></h1>
 	<p align="center">🚀 Construção de componentes reutilizáveis (Routers, Bindings, Appbar, TextForms, Box, Buttons, Models...)</p>
@@ -13,17 +7,21 @@
 	 
 <p align="center">
 </h4>
+ <a href="#Descrição do Projeto">Descrição do Projeto</a> •
  <a href="#Experiencia">Experiencia</a> •
  <a href="#Features">Features</a> •
  <a href="#Telas">Telas</a> •  
  <a href="#Rodar">Rodar</a> • 
 </p>
 
-## Experiencia
-Com este projeto tive a oportunidade de conhecer vários widgets e implementações do Flutter, e também uma estrutura de projeto, com acesso ao BackEnd.
-Ainda há muito para explorar neste projeto.
-Vakinha Burguer é um aplicativo de delivery de lanches, com pagamento com Pix.
+## Descrição do Projeto
+<p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.</p>
+<a href="http://academiadoflutter.com.br//">Rodrigo Rahman</a>
+ </p>
 
+## Experiencia
+Com este projeto pude conhecer um caminhão de ferramentas e implementações do Flutter, aprendi mais sobre uma estrutura de projeto organizada e também como realizar o acesso ao BackEnd construido em "shelf" para api do "GerenciaNet.
+Segue abaixo de forma resumida o que foi explorado...
 ### Features
 - [x] Acesso para novo usuário ou acesso direto a usuário pré-cadastrado
 - [x] Cadastro de novo usuário
