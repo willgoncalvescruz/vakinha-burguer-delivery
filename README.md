@@ -1,13 +1,15 @@
 <h1 align="center">Vakinha Burger: </h1>
-<p align="center">🚧  Flutter Select 🚀 Em finalização...  🚧</p>
+<h1 align="center">
+  <img alt="Acessar" title="#Acessar" src="./assets/images/logo.png" width="200"/></h1>
+<p align="center">🚧  Flutter Select 🚀 Realizando melhorias...  🚧</p>
 <h1 align="center">
     <a href="https://pub.dev/"> Flutter</a></h1>
-	<p align="center">🚀 Construção de componentes reutilizáveis (Routers, Bindings, Appbar, TextForms, Box, Buttons, Models...)</p>
+	<p align="center">🚀 Construção de componentes reutilizáveis (Routers, Bindings, Appbar, TextForms, Box, Buttons, Models)...</p>
 	
 	 
 <p align="center">
 </h4>
- <a href="#Descricao">Descrição do Projeto</a> •
+ <a href="#Descrição">Descrição</a> •
  <a href="#Experiencia">Experiencia</a> •
  <a href="#Features">Features</a> •
  <a href="#Rodar">Rodar</a> • 
@@ -15,7 +17,7 @@
 </p>
 
 ## Descrição
-<p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.</p>
+<p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.
 <a href="http://academiadoflutter.com.br//">Rodrigo Rahman</a>
  </p>
 
