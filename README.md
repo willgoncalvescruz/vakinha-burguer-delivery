@@ -34,7 +34,7 @@ Segue abaixo de forma resumida o que foi explorado...
 
 ### Telas
 <h1 align="center">
-  <img alt="Acessar" title="#Acessar" src="./assets/images/acessar.png" />
+  <img alt="Acessar" title="#Acessar" src="./assets/images/acessar.png" width="300"/>
 </h1>
 
 ### Rodar
