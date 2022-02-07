@@ -10,8 +10,8 @@
  <a href="#Descricao">Descrição do Projeto</a> •
  <a href="#Experiencia">Experiencia</a> •
  <a href="#Features">Features</a> •
- <a href="#Telas">Telas</a> •  
  <a href="#Rodar">Rodar</a> • 
+ <a href="#Telas">Telas</a> •  
 </p>
 
 ## Descrição
@@ -32,15 +32,23 @@ Segue abaixo de forma resumida o que foi explorado...
 - [x] Gerenciamento das quantidades via carrinho de compras
 - [x] Método de pagamento via PIX QRCode ou PIX Copia e Cola
 
-### Telas
-<h1 align="center">
-  <img alt="Acessar" title="#Acessar" src="./assets/images/acessar.png" width="300"/>
-</h1>
-
 ### Rodar
 - [x] Fazer Clone do Projeto
 - [x] Baixar dependencias "Flutter pub get"
 - [x] Fazer Build "Flutter run"
+### Telas
+<h1 align="center">
+  <img alt="Acessar" title="#Acessar" src="./assets/images/acessar.png" width="200"/>
+  <img alt="Login" title="#Login" src="./assets/images/login.png" width="200"/>
+  <img alt="Cadastro" title="#Cadastro" src="./assets/images/cadastro.png" width="200"/>
+  <img alt="Produtos" title="#Produtos" src="./assets/images/produtos.png" width="200"/>
+  <img alt="Adcionar" title="#Adcionar" src="./assets/images/adicionar1.png" width="200"/>
+  <img alt="Carrinho" title="#Carrinho" src="./assets/images/carrinho1.png" width="200"/>
+  <img alt="Pix" title="#Pix" src="./assets/images/gerarpix.png" width="200"/>
+  <img alt="Pagamento" title="#Pagamento" src="./assets/images/pagamento.png" width="200"/>
+</h1>
+
+
 
 
 
