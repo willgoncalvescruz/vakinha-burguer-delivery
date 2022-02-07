@@ -22,17 +22,18 @@
  </p>
 
 ## Experiencia
-Com este projeto pude conhecer um caminhão de ferramentas e implementações do Flutter, aprendi mais sobre uma estrutura de projeto organizada e também como realizar o acesso ao BackEnd construido em "shelf" para api do "GerenciaNet.
-Segue abaixo de forma resumida o que foi explorado...
+Com este projeto pude conhecer um caminhão de ferramentas bastante utilizadas nas implementações do Flutter, aprendi mais sobre uma estrutura de projeto organizado e também como realizar o acesso ao BackEnd construido em "shelf" para API do "GerenciaNet.
+Segue abaixo mais detalhes de como tudo isso foi explorado.
 ### Features
-- [x] Acesso para novo usuário ou acesso direto a usuário pré-cadastrado
+- [x] Acesso para novo usuário realizar login 
+- [x] Acesso direto a "Produtos" para usuário pré-cadastrado
 - [x] Cadastro de novo usuário
 - [x] Validação nos campos de preenchimento por todo app
-- [x] Compra de produtos com atualização das quantidades de
+- [x] Compra de produtos e atualização das quantidades
 - [x] Navegação via Bottom
-- [x] Esvaziar Carrinho
-- [x] Gerenciamento das quantidades via carrinho de compras
-- [x] Método de pagamento via PIX QRCode ou PIX Copia e Cola
+- [x] Opção de esvaziar o Carrinho
+- [x] Gerenciamento das quantidades também via carrinho de compras
+- [x] Método de pagamento via PIX QRCode ou PIX Copia e Cola *"Está funcional, não pague, se pagar vai para conta do Rahman kkk".
 
 ### Rodar
 - [x] Fazer Clone do Projeto
