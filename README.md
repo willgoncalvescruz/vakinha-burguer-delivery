@@ -43,6 +43,7 @@ Segue abaixo de forma resumida o que foi explorado...
   <img alt="Cadastro" title="#Cadastro" src="./assets/images/cadastro.png" width="200"/>
   <img alt="Produtos" title="#Produtos" src="./assets/images/produtos.png" width="200"/>
   <img alt="Adcionar" title="#Adcionar" src="./assets/images/adicionar1.png" width="200"/>
+    <img alt="Adcionar" title="#Adcionar" src="./assets/images/adicionar2.png" width="200"/>
   <img alt="Carrinho" title="#Carrinho" src="./assets/images/carrinho1.png" width="200"/>
   <img alt="Pix" title="#Pix" src="./assets/images/gerarpix.png" width="200"/>
   <img alt="Pagamento" title="#Pagamento" src="./assets/images/pagamento.png" width="200"/>
