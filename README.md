@@ -1,8 +1,8 @@
 
-# Vakinha Burger 
+
 <h1 align="center">Vakinha Burger: </h1>
 	🚧  Flutter Select 🚀 Em finalização...  🚧
-## Descrição do Projeto
+# Descrição do Projeto
 <p align="center">Projeto desenvolvido em Flutter no evento da Academia do Flutter's Dart Week 02/2022.
 <a href="http://academiadoflutter.com.br//">Rodrigo Rahman</a>
  </p>
@@ -15,8 +15,7 @@
 </h4>
  <a href="#Experiencia">Experiencia</a> •
  <a href="#Features">Features</a> •
- <a href="#Telas">Telas</a> • 
- <a href="#Acessar">Acessar Telas</a> •
+ <a href="#Telas">Telas</a> •  
  <a href="#Rodar">Rodar</a> • 
 </p>
 
