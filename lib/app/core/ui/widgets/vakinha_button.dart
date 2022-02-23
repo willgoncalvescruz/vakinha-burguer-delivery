@@ -30,7 +30,7 @@ class VakinhaButton extends StatelessWidget {
         style: ElevatedButton.styleFrom(
           elevation: 7,
           onPrimary: Colors.white,
-          side: BorderSide(width: 2.0, color: Colors.white),
+          side: const BorderSide(width: 2.0, color: Colors.white),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12.0),
           ), //const StadiumBorder(),
