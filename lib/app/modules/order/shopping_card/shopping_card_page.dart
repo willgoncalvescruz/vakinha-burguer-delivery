@@ -59,6 +59,7 @@ class ShoppingCardPage extends GetView<ShoppingCardController> {
                             padding:
                                 const EdgeInsets.symmetric(horizontal: 20.0),
                             child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
                               children: [
                                 Text(
                                   'Carrinho',
@@ -87,7 +88,7 @@ class ShoppingCardPage extends GetView<ShoppingCardController> {
                                         label: p.product.name,
                                         calculateTotal: true,
                                         elevated: true,
-                                        backgroundColor: Colors.orange[50],
+                                        backgroundColor: Colors.grey[100]!,
                                         quantity: p.quantity,
                                         price: p.product.price,
                                         minusCallback: () => controller
@@ -125,9 +126,9 @@ class ShoppingCardPage extends GetView<ShoppingCardController> {
                             ),
                           ),
                           const Divider(),
-                          const _AdressField(),
+                          const AdressField(),
                           const Divider(),
-                          const _CpfField(),
+                          const CpfField(),
                           const Divider(),
                           const Spacer(),
                           Center(
@@ -160,8 +161,8 @@ class ShoppingCardPage extends GetView<ShoppingCardController> {
   }
 }
 
-class _AdressField extends GetView<ShoppingCardController> {
-  const _AdressField({Key? key}) : super(key: key);
+class AdressField extends GetView<ShoppingCardController> {
+  const AdressField({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -172,12 +173,10 @@ class _AdressField extends GetView<ShoppingCardController> {
         children: [
           const SizedBox(
             height: 35,
-            child: Expanded(
-              child: Text(
-                'Endereço de entrega',
-                overflow: TextOverflow.ellipsis,
-                style: TextStyle(fontSize: 18),
-              ),
+            child: Text(
+              'Endereço de entrega',
+              overflow: TextOverflow.ellipsis,
+              style: TextStyle(fontSize: 18),
             ),
           ),
           TextFormField(
@@ -202,8 +201,8 @@ class _AdressField extends GetView<ShoppingCardController> {
   }
 }
 
-class _CpfField extends GetView<ShoppingCardController> {
-  const _CpfField({Key? key}) : super(key: key);
+class CpfField extends GetView<ShoppingCardController> {
+  const CpfField({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -214,12 +213,10 @@ class _CpfField extends GetView<ShoppingCardController> {
         children: [
           const SizedBox(
             height: 35,
-            child: Expanded(
-              child: Text(
-                'CPF',
-                overflow: TextOverflow.ellipsis,
-                style: TextStyle(fontSize: 18),
-              ),
+            child: Text(
+              'CPF',
+              overflow: TextOverflow.ellipsis,
+              style: TextStyle(fontSize: 18),
             ),
           ),
           TextFormField(

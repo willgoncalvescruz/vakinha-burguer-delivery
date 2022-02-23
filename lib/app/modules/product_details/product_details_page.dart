@@ -59,7 +59,7 @@ class ProductDetailsPage extends GetView<ProductDetailsController> {
                       plusCallback: controller.addProduct,
                       price: controller.product.price,
                       quantity: controller.quantity,
-                      backgroundColor: Colors.orange[50],
+                      backgroundColor: Colors.grey[100]!,
                     );
                   }),
                   const Divider(),

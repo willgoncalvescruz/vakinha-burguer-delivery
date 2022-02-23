@@ -19,8 +19,8 @@ class ProductTile extends StatelessWidget {
           margin: const EdgeInsets.all(10),
           decoration: BoxDecoration(
             border: Border.all(
-              width: 4,
-              color: Colors.orange[100]!,
+              width: 3,
+              color: Colors.grey[200]!,
             ),
             borderRadius: BorderRadius.circular(15),
           ),
