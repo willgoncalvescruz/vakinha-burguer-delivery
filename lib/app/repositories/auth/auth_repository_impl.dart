@@ -20,7 +20,7 @@ class AuthRepositoryImpl implements AuthRepository {
     });
 
     if (result.hasError) {
-      var message = 'Erro ao registrar o usuário';
+      var message = '#Erro ao registrar o usuário#';
       if (result.statusCode == 400) {
         message = result.body['error'];
       }
@@ -42,18 +42,18 @@ class AuthRepositoryImpl implements AuthRepository {
 
     if (result.hasError) {
       if (result.statusCode == 403) {
-        log('usuario ou senha inválidos',
+        log('#usuario ou senha inválidos#',
             error: result.statusText, stackTrace: StackTrace.current);
         throw UserNotFoundException();
       }
 
       log(
-        'erro ao autenticar o usuário',
+        '#Erro ao autenticar o usuário#',
         error: result.statusText,
         stackTrace: StackTrace.current,
       );
 
-      throw RestClientException('Erro ao autenticar o usuário');
+      throw RestClientException('#Erro ao autenticar o usuário#');
     }
 
     return UserModel.fromMap(result.body);

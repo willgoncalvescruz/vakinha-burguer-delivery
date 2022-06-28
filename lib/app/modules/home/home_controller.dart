@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'package:vakinha_burguer_mobile/app/core/services/auth_service.dart';
 import 'package:vakinha_burguer_mobile/app/core/services/shopping_card_service.dart';
 import 'package:vakinha_burguer_mobile/app/modules/menu/menu_bindings.dart';
@@ -49,5 +48,6 @@ class HomeController extends GetxController {
         transition: Transition.fadeIn,
       );
     }
+    return null;
   }
 }
